@@ -767,3 +767,99 @@ body
 {
 	clear: both;
 }
+
+.freebirdFormviewerViewFormContentWrapper{
+		margin-left: -16%;
+    	margin-top: 25%;
+	}
+
+	.freebirdFormviewerViewItemsTextItemWrapper{
+		margin-top: -4%;
+
+	}
+
+	.freebirdFormviewerViewItemsTextItemWrapper:first-child{
+		margin-top: -36px;
+	}
+
+	.quantumWizTextinputPapertextareaMainContent{
+		margin-left: 8px;
+    	margin-top: -3%;
+    	width: 334px;
+	}
+
+	.quantumWizTextinputPaperinputInput{
+		background-color: #f2f2f2;
+	    border-color: #c4c4c4;
+	    border-style: solid;
+	    border-width: 3px;
+	    color: #c4c4c4;
+	    font-family: Helvetica,Helvetica Neue,Arial,sans-serif;
+	    
+	}
+
+	.quantumWizTextinputPaperinputPlaceholder{
+		font-style: italic;
+		padding-left: 10px;
+		padding-top: 3px;
+	}
+   
+
+   	.quantumWizTextinputPapertextareaInput{
+   		background-color: #f2f2f2;
+	    border: 3px solid #c4c4c4;
+	    color: black;
+	    min-width: 328px;
+	    height: 100px;
+	    padding-left: 7px;
+   	}
+
+   	.quantumWizTextinputPapertextareaPlaceholder exportLabel {
+   		color: #c4c4c4;
+   		padding-left: 10px;
+		padding-top: 3px;
+   	}
+
+   	.freebirdFormviewerViewNavigationSubmitButton{
+   		background-color: white;
+    	border-color: black;
+    	border-style: solid;
+    	border-width: 3px;
+    	color: black;
+   	}
+
+   	.quantumWizButtonPaperbutton2El2{
+   		line-height: 10px;
+   		min-width: 140px;
+
+   	}
+
+   	.freebirdFormviewerViewNavigationButtons{
+   		margin-top: 95px;
+	    padding-bottom: 10px;
+	    padding-left: 8px;
+   	}
+
+   	.quantumWizTextinputPaperinputContentArea{
+   		width:328px;
+   		padding-top:6px;
+   		padding-left: 0px;
+   	}
+
+   	.quantumWizTextinputPaperinputMainContent{
+   		width: 335px;
+   	}
+
+   	.freebirdFormviewerViewItemsTextTextItem .freebirdFormviewerViewItemsTextShortText{
+   		width: 60%;
+   	}
+
+   	.quantumWizTextinputPaperinputInput{
+   		color:black;
+   		padding-left:7px;
+
+   	}
+
+   	.quantumWizTextinputPapertextareaContentArea{
+   		height: 107px;
+   	}
