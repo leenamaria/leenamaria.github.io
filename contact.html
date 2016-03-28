@@ -1,3 +1,29 @@
+
+Skip to content
+This repository
+
+    Pull requests
+    Issues
+    Gist
+
+    @Strawberry-Jim-Jam
+
+1
+0
+
+    1
+
+Strawberry-Jim-Jam/leenamaria.github.io forked from leenamaria/leenamaria.github.io
+Code
+Pull requests 0
+Wiki
+Pulse
+Graphs
+Settings
+leenamaria.github.io/contact.html
+0f7542c 15 hours ago
+@leenamaria leenamaria Files for website
+121 lines (115 sloc) 8.92 KB
 <!DOCTYPE html>
 <html class="html" lang="en-GB">
  <head>
@@ -57,27 +83,31 @@
    <div class="clearfix colelem" id="u459-4"><!-- content -->
     <p>Leave a message below if you'd like to get in touch</p>
    </div>
-   <form class="form-grp clearfix colelem" id="widgetu305" method="post" enctype="multipart/form-data" action="scripts/form-u305.php"><!-- none box -->
-    <div class="fld-grp clearfix grpelem" id="widgetu316" data-required="false"><!-- none box -->
-     <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u318-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu316_input" name="custom_U316" tabindex="1"/><label class="wrapped-input fld-prompt" id="widgetu316_prompt" for="widgetu316_input"><span class="actAsPara">Name</span></label></span>
+
+   <form enctype="text/plain" method="post" action="MAILTO:leenakeshishian@gmail.com" class="contact-form">
+    <h1>to: Leena K</h1>
+
+    <div id="from">
+      <label for="name">from:</label>
+      <input type="text" id="name" name="user_name" value="your name">
     </div>
-    <div class="fld-grp clearfix grpelem" id="widgetu312" data-required="true" data-type="email"><!-- none box -->
-     <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u313-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu312_input" name="Email" tabindex="2"/><label class="wrapped-input fld-prompt" id="widgetu312_prompt" for="widgetu312_input"><span class="actAsPara">Email</span></label></span>
+
+    <div id="reply">
+      <label for="mail">reply:</label>
+      <input type="email" name="user_email" id="mail" value="your email">
     </div>
-    <div class="clearfix grpelem" id="u320-4"><!-- content -->
-     <p>Submitting Form...</p>
+
+    <div id="message">
+      <label for="msg">Your message:</label>
+      <textarea name="user_message" id="msg"></textarea>
     </div>
-    <div class="clearfix grpelem" id="u310-4"><!-- content -->
-     <p>The server encountered an error.</p>
+   
+    <div class="button">
+      <button type="submit">Send your message</button>
     </div>
-    <div class="clearfix grpelem" id="u321-4"><!-- content -->
-     <p>Thanks. I'll be in touch very soon</p>
-    </div>
-    <input class="submit-btn NoWrap grpelem" id="u311-17" type="submit" value="" tabindex="4"/><!-- state-based BG images -->
-    <div class="fld-grp clearfix grpelem" id="widgetu306" data-required="true"><!-- none box -->
-     <span class="fld-textarea actAsDiv clearfix grpelem" id="u307-4"><!-- content --><textarea class="wrapped-input" id="widgetu306_input" name="custom_U306" tabindex="3"></textarea><label class="wrapped-input fld-prompt" id="widgetu306_prompt" for="widgetu306_input"><span class="actAsPara">Message</span></label></span>
-    </div>
-   </form>
+  </form>
+
+
    <div class="verticalspacer"></div>
   </div>
   <div class="preload_images">
@@ -104,7 +134,8 @@
    $(document).ready(function() { try {
 (function(){var a={},b=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),16);return 0};(function(){$('link[type="text/css"]').each(function(){var b=($(this).attr("href")||"").match(/\/?css\/([\w\-]+\.css)\?(\d+)/);b&&b[1]&&b[2]&&(a[b[1]]=b[2])})})();(function(){$("body").append('<div class="version" style="display:none; width:1px; height:1px;"></div>');
 for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.required[d],g=f.match(/([\w\-\.]+)\.(\w+)$/),k=g&&g[1]?g[1]:null,g=g&&g[2]?g[2]:null;switch(g.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");c.addClass(k);var g=b(c.css("color")),h=b(c.css("background-color"));g!=0||h!=0?(Muse.assets.required.splice(d,1),"undefined"!=typeof a[f]&&(g!=a[f]>>>24||h!=(a[f]&16777215))&&Muse.assets.outOfDate.push(f)):d++;c.removeClass(k);break;case "js":k.match(/^jquery-[\d\.]+/gi)&&
-typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
+typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();
+/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
 Muse.Utils.prepHyperlinks(true);/* body */
@@ -117,3 +148,9 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
    </body>
 </html>
+
+    Status API Training Shop Blog About 
+
+    © 2016 GitHub, Inc. Terms Privacy Security Contact Help 
+
+ 
