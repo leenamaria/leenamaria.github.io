@@ -1,0 +1,103 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leena-k.com" resolutions="1x,2x" timestamp="1477858207960">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="3988321668" ref="bodyform:ifo:about:testimonials:index:contact:sunshine-underground:one-minute-briefs"/>
+    <file name="bodyform.css" crc="3959353698" ref="bodyform"/>
+    <file name="ifo.css" crc="244306023" ref="ifo"/>
+    <file name="about.css" crc="4237749276" ref="about"/>
+    <file name="testimonials.css" crc="320219725" ref="testimonials"/>
+    <file name="index.css" crc="261891053" ref="index"/>
+    <file name="contact.css" crc="267932668" ref="contact"/>
+    <file name="sunshine-underground.css" crc="3978189184" ref="sunshine-underground"/>
+    <file name="one-minute-briefs.css" crc="124862056" ref="one-minute-briefs"/>
+  </folder>
+  <folder name="assets">
+    <file name="up-case-study-final.pdf" crc="442256188" seo="true" mt="1472591457000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:one-minute-briefs:ifo:testimonials:sunshine-underground:bodyform:about:contact"/>
+    <file name="museutils.js" crc="275725342" ref="index:one-minute-briefs:ifo:testimonials:sunshine-underground:bodyform:about:contact"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:one-minute-briefs:ifo:testimonials:sunshine-underground:bodyform:about:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="ifo"/>
+  </folder>
+  <folder name="images">
+    <file name="pzpkjcqv.jpg" crc="4115253929" seo="true" ref="index"/>
+    <file name="pzpkjcqv_2x.jpg" crc="111283388" seo="true" ref="index"/>
+    <file name="packaging1.jpg" crc="433544288" seo="true" ref="index"/>
+    <file name="packaging1_2x.jpg" crc="283582710" seo="true" ref="index"/>
+    <file name="bodyform-logo-crop-u545.png" crc="248985594" ref="index"/>
+    <file name="bodyform-logo-crop-u545_2x.png" crc="498853731" ref="index"/>
+    <file name="sunshine underground.jpg" crc="190201841" seo="true" ref="index"/>
+    <file name="sunshine underground_2x.jpg" crc="312594986" seo="true" ref="index"/>
+    <file name="greenscreen2.jpg" crc="198909079" seo="true" ref="one-minute-briefs"/>
+    <file name="greenscreen2_2x.jpg" crc="4168130191" seo="true" ref="one-minute-briefs"/>
+    <file name="doorbell.jpg" crc="215701864" seo="true" ref="one-minute-briefs"/>
+    <file name="doorbell_2x.jpg" crc="4057237645" seo="true" ref="one-minute-briefs"/>
+    <file name="swingball2.jpg" crc="138118224" seo="true" ref="one-minute-briefs"/>
+    <file name="swingball2_2x.jpg" crc="485526090" seo="true" ref="one-minute-briefs"/>
+    <file name="elephant day.jpg" crc="3874106889" seo="true" ref="one-minute-briefs"/>
+    <file name="elephant day_2x.jpg" crc="105873628" seo="true" ref="one-minute-briefs"/>
+    <file name="gluesticks2.jpg" crc="3882679565" seo="true" ref="one-minute-briefs"/>
+    <file name="gluesticks2_2x.jpg" crc="411052334" seo="true" ref="one-minute-briefs"/>
+    <file name="justhealth2.jpg" crc="3877126262" seo="true" ref="one-minute-briefs"/>
+    <file name="justhealth2_2x.jpg" crc="208802138" seo="true" ref="one-minute-briefs"/>
+    <file name="kindness3.jpg" crc="391545095" seo="true" ref="one-minute-briefs"/>
+    <file name="kindness3_2x.jpg" crc="4065287062" seo="true" ref="one-minute-briefs"/>
+    <file name="pool3.jpg" crc="395441180" seo="true" ref="one-minute-briefs"/>
+    <file name="pool3_2x.jpg" crc="452019225" seo="true" ref="one-minute-briefs"/>
+    <file name="sporks6.jpg" crc="3864034694" seo="true" ref="one-minute-briefs"/>
+    <file name="sporks6_2x.jpg" crc="4127107079" seo="true" ref="one-minute-briefs"/>
+    <file name="spraypaint2.png" crc="4125242068" seo="true" ref="one-minute-briefs"/>
+    <file name="spraypaint2_2x.png" crc="469716125" seo="true" ref="one-minute-briefs"/>
+    <file name="joker2.jpg" crc="456796140" seo="true" ref="one-minute-briefs"/>
+    <file name="joker2_2x.jpg" crc="222330660" seo="true" ref="one-minute-briefs"/>
+    <file name="floss2.jpg" crc="4232837723" seo="true" ref="one-minute-briefs"/>
+    <file name="floss2_2x.jpg" crc="3798047314" seo="true" ref="one-minute-briefs"/>
+    <file name="yt up-u208-fr.jpg" crc="4084644405" ref="ifo"/>
+    <file name="yt up-u208-fr_2x.jpg" crc="3809347104" ref="ifo"/>
+    <file name="packaging1-u206-fr.jpg" crc="3984976706" ref="ifo"/>
+    <file name="packaging1-u206-fr_2x.jpg" crc="3823441319" ref="ifo"/>
+    <file name="london_underground_ad_screen_mockup_1-u207-fr.jpg" crc="4076915339" ref="ifo"/>
+    <file name="london_underground_ad_screen_mockup_1-u207-fr_2x.jpg" crc="75153334" ref="ifo"/>
+    <file name="box1.jpg" crc="4267802089" ref="ifo"/>
+    <file name="box1_2x.jpg" crc="4083330062" ref="ifo"/>
+    <file name="screen shot 2016-10-14 at 160301.jpg" crc="23689813" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160301_2x.jpg" crc="3844601128" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160323.jpg" crc="4020333250" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160323_2x.jpg" crc="105247863" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160338.jpg" crc="4261893253" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160338_2x.jpg" crc="4000503923" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160405.jpg" crc="122873967" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160405_2x.jpg" crc="4100880613" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160420.jpg" crc="3989599592" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160420_2x.jpg" crc="4174614632" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160511.jpg" crc="372793521" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160511_2x.jpg" crc="347601530" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160603.jpg" crc="3231897" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160603_2x.jpg" crc="3881527550" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160628.jpg" crc="535356133" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160628_2x.jpg" crc="284015260" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 161051.jpg" crc="479042969" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 161051_2x.jpg" crc="3764049620" seo="true" ref="testimonials"/>
+    <file name="sunshine underground2.jpg" crc="3801139906" seo="true" ref="sunshine-underground"/>
+    <file name="sunshine underground_2x2.jpg" crc="3590735" seo="true" ref="sunshine-underground"/>
+    <file name="padtin1.jpg" crc="352808242" seo="true" ref="bodyform"/>
+    <file name="padtin1_2x.jpg" crc="323225509" seo="true" ref="bodyform"/>
+    <file name="bodyform1.jpg" crc="247135650" seo="true" ref="bodyform"/>
+    <file name="pigeonpost.gif" crc="3822633033" seo="true" ref="contact"/>
+    <file name="pigeonpost_2x.gif" crc="3822633033" seo="true" ref="contact"/>
+    <file name="post-box.png" crc="460684074" seo="true" ref="contact"/>
+    <file name="post-box_2x.png" crc="4069466146" seo="true" ref="contact"/>
+    <file name="suggestion-box-for-staff-300x202.png" crc="4161751369" seo="true" ref="contact"/>
+    <file name="article-1094449-02caebc7000005dc-613_468x594.jpg" crc="4245453547" seo="true" ref="contact"/>
+    <file name="article-1094449-02caebc7000005dc-613_468x594_2x.jpg" crc="3979712833" seo="true" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="470235804" seo="true" mt="1477857885029" redirect="true"/>
+  <file name="one-minute-briefs.html" crc="3891732834" seo="true" mt="1477857885029" redirect="true"/>
+  <file name="ifo.html" crc="3936834277" seo="true" mt="1477857885029" redirect="true"/>
+  <file name="testimonials.html" crc="4170881237" seo="true" mt="1477857885029" redirect="true"/>
+  <file name="sunshine-underground.html" crc="3845873811" seo="true" mt="1477857885029" redirect="true"/>
+  <file name="bodyform.html" crc="4095583561" seo="true" mt="1477857885029" redirect="true"/>
+  <file name="about.html" crc="429486938" seo="true" mt="1477857885029" redirect="true"/>
+  <file name="contact.html" crc="3986143420" seo="true" mt="1477857885029" redirect="true"/>
+</manifest>
