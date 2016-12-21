@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000016;
-	background-color: #AEEF40;
+	color: #0000EC;
+	background-color: #D77462;
 }
 
 @-ms-viewport
@@ -65,7 +65,7 @@
 
 #u1827-4
 {
-	z-index: 48;
+	z-index: 47;
 	width: 117px;
 	min-height: 19px;
 	background-color: transparent;
@@ -81,13 +81,13 @@
 	position: relative;
 }
 
-#pu1632-38
+#pu1632-37
 {
 	width: 0.01px;
 	margin-top: -2px;
 }
 
-#u1632-38
+#u1632-37
 {
 	z-index: 10;
 	width: 122px;
@@ -97,7 +97,7 @@
 
 #u1830
 {
-	z-index: 54;
+	z-index: 53;
 	width: 196px;
 	-pie-box-shadow: none;
 	box-shadow: 8px 8px 0px #000000;
@@ -115,7 +115,7 @@
 
 #u1833
 {
-	z-index: 57;
+	z-index: 56;
 	width: 196px;
 	background-color: transparent;
 	position: relative;
@@ -136,7 +136,7 @@
 
 #u1837-4
 {
-	z-index: 61;
+	z-index: 60;
 	width: 162px;
 	min-height: 24px;
 	background-color: transparent;
@@ -152,7 +152,7 @@
 
 #u1828
 {
-	z-index: 52;
+	z-index: 51;
 	width: 116px;
 	-pie-box-shadow: none;
 	box-shadow: 8px 8px 0px #000000;
@@ -168,7 +168,7 @@
 
 #u1831
 {
-	z-index: 55;
+	z-index: 54;
 	width: 116px;
 	background-color: transparent;
 	position: relative;
@@ -176,7 +176,7 @@
 
 #u1838-4
 {
-	z-index: 65;
+	z-index: 64;
 	width: 116px;
 	min-height: 24px;
 	background-color: transparent;
@@ -192,7 +192,7 @@
 
 #u1829
 {
-	z-index: 53;
+	z-index: 52;
 	width: 140px;
 	-pie-box-shadow: none;
 	box-shadow: 8px 8px 0px #000000;
@@ -208,7 +208,7 @@
 
 #u1835
 {
-	z-index: 59;
+	z-index: 58;
 	width: 115px;
 	background-color: transparent;
 	margin-left: 13px;
@@ -217,7 +217,7 @@
 
 #u1839-4
 {
-	z-index: 69;
+	z-index: 68;
 	width: 140px;
 	min-height: 24px;
 	background-color: transparent;
@@ -232,7 +232,7 @@
 
 #u1843
 {
-	z-index: 73;
+	z-index: 72;
 	width: 126px;
 	background-color: transparent;
 	margin-left: 233px;

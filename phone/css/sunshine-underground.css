@@ -1,7 +1,7 @@
 .version.sunshine_underground /* version checker */
 {
-	color: #0000EA;
-	background-color: #1E7209;
+	color: #00000A;
+	background-color: #A0691E;
 }
 
 @-ms-viewport
@@ -65,7 +65,7 @@
 
 #u1709-4
 {
-	z-index: 48;
+	z-index: 47;
 	width: 239px;
 	min-height: 22px;
 	background-color: transparent;
@@ -81,12 +81,12 @@
 	position: relative;
 }
 
-#pu1632-38
+#pu1632-37
 {
 	width: 0.01px;
 }
 
-#u1632-38
+#u1632-37
 {
 	z-index: 10;
 	width: 122px;
@@ -96,7 +96,7 @@
 
 #u1710-4
 {
-	z-index: 52;
+	z-index: 51;
 	width: 239px;
 	min-height: 183px;
 	background-color: transparent;
@@ -112,7 +112,7 @@
 
 #u1711
 {
-	z-index: 56;
+	z-index: 55;
 	width: 230px;
 	-pie-box-shadow: none;
 	box-shadow: 8px 8px 0px #000000;
@@ -129,7 +129,7 @@
 
 #u1714
 {
-	z-index: 58;
+	z-index: 57;
 	width: 362px;
 	background-color: transparent;
 	margin-left: 6px;
@@ -139,7 +139,7 @@
 
 #u1716
 {
-	z-index: 60;
+	z-index: 59;
 	width: 362px;
 	background-color: transparent;
 	margin-left: 6px;

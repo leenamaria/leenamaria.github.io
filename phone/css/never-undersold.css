@@ -1,7 +1,7 @@
 .version.never_undersold /* version checker */
 {
-	color: #0000F6;
-	background-color: #FC47A9;
+	color: #000014;
+	background-color: #25FCDE;
 }
 
 @-ms-viewport
@@ -65,7 +65,7 @@
 
 #u1692-4
 {
-	z-index: 48;
+	z-index: 47;
 	width: 241px;
 	min-height: 22px;
 	background-color: transparent;
@@ -81,12 +81,12 @@
 	position: relative;
 }
 
-#pu1632-38
+#pu1632-37
 {
 	width: 0.01px;
 }
 
-#u1632-38
+#u1632-37
 {
 	z-index: 10;
 	width: 122px;
@@ -96,7 +96,7 @@
 
 #u1693-7
 {
-	z-index: 52;
+	z-index: 51;
 	width: 241px;
 	min-height: 185px;
 	background-color: transparent;
@@ -119,7 +119,7 @@
 
 #u1696
 {
-	z-index: 61;
+	z-index: 60;
 	width: 178px;
 	border-width: 1px;
 	border-style: solid;
@@ -134,7 +134,7 @@
 
 #u1694
 {
-	z-index: 59;
+	z-index: 58;
 	width: 177px;
 	border-width: 1px;
 	border-style: solid;
@@ -155,7 +155,7 @@
 
 #u1700
 {
-	z-index: 63;
+	z-index: 62;
 	width: 236px;
 	background-color: transparent;
 	position: relative;
@@ -165,7 +165,7 @@
 
 #u1702
 {
-	z-index: 65;
+	z-index: 64;
 	width: 70px;
 	background-color: transparent;
 	position: relative;
@@ -175,7 +175,7 @@
 
 #u1706
 {
-	z-index: 67;
+	z-index: 66;
 	width: 369px;
 	background-color: transparent;
 	margin-left: 2px;
