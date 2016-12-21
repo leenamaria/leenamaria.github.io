@@ -1,0 +1,146 @@
+#u1631-8
+{
+	-pie-box-shadow: none;
+	box-shadow: 8px 8px 0px #000000;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	text-align: right;
+	text-transform: lowercase;
+	position: relative;
+}
+
+#u1631-8:active
+{
+	-pie-box-shadow: none;
+	box-shadow: 8px 8px 0px #F15A24;
+}
+
+#u1631-2
+{
+	font-size: 12px;
+	line-height: 14px;
+	padding-right: 5px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+}
+
+#u1631-4
+{
+	font-size: 12px;
+	line-height: 14px;
+	padding-right: 5px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+}
+
+#u1631-6
+{
+	font-size: 8px;
+	line-height: 10px;
+	padding-right: 5px;
+	padding-top: 5px;
+	font-family: Courier New, Courier, monospace;
+}
+
+#u1632-38
+{
+	background-color: transparent;
+	text-align: right;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+}
+
+#u1632-3
+{
+	padding-right: 5px;
+	padding-left: 3px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1632-6
+{
+	padding-right: 5px;
+	padding-left: 3px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1632-9
+{
+	padding-right: 5px;
+	padding-left: 3px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1632-12
+{
+	padding-right: 5px;
+	padding-left: 3px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1632-15
+{
+	padding-right: 5px;
+	padding-left: 3px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1632-18
+{
+	padding-right: 5px;
+	padding-left: 3px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1632-21
+{
+	padding-right: 5px;
+	padding-left: 3px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1632-24
+{
+	padding-right: 5px;
+	padding-left: 3px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1632-26
+{
+	font-size: 9px;
+	line-height: 16px;
+	padding-right: 5px;
+	padding-left: 3px;
+}
+
+#u1632-30
+{
+	font-size: 9px;
+	line-height: 16px;
+	padding-right: 5px;
+	padding-left: 3px;
+}
+
+#u1632-33
+{
+	padding-right: 5px;
+	padding-left: 3px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1632-36
+{
+	padding-right: 5px;
+	padding-left: 3px;
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u1632,#u1632-4,#u1632-7,#u1632-10,#u1632-13,#u1632-16,#u1632-19,#u1632-22,#u1632-31,#u1632-34
+{
+	font-size: 9px;
+	line-height: 16px;
+}
+

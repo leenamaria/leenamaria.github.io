@@ -1,0 +1,172 @@
+.version.tech_confessions /* version checker */
+{
+	color: #000017;
+	background-color: #A8F58F;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 357px;
+	min-height: 816.2249999999999px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding: 9px 19px 84.77500000000009px 4px;
+}
+
+#u1631-8
+{
+	z-index: 2;
+	width: 110px;
+	min-height: 41px;
+	margin-left: 2px;
+}
+
+#u1631-8:active
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 41px;
+	width: 110px;
+	margin: 0px 0px 0px 2px;
+}
+
+#u1739-4
+{
+	z-index: 52;
+	width: 188px;
+	min-height: 24px;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: right;
+	font-size: 18px;
+	font-family: Helvetica, Helvetica Neue, Arial, sans-serif;
+	font-weight: bold;
+	margin-left: 148px;
+	top: -7px;
+	margin-bottom: -7px;
+	position: relative;
+}
+
+#pu1632-38
+{
+	width: 0.01px;
+}
+
+#u1632-38
+{
+	z-index: 10;
+	width: 122px;
+	min-height: 194px;
+	margin-right: -10000px;
+}
+
+#u1738-4
+{
+	z-index: 48;
+	width: 226px;
+	min-height: 182px;
+	background-color: transparent;
+	color: #000000;
+	line-height: 19px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Courier New, Courier, monospace;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 11px;
+	left: 129px;
+}
+
+#u1746
+{
+	z-index: 61;
+	width: 349px;
+	background-color: transparent;
+	margin-left: 8px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#pu1740
+{
+	width: 0.01px;
+	margin-left: 8px;
+	margin-top: 18px;
+}
+
+#u1740
+{
+	z-index: 56;
+	width: 168px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u1742
+{
+	z-index: 58;
+	width: 168px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 181px;
+}
+
+#u1744
+{
+	z-index: 60;
+	width: 349px;
+	min-height: 196px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 8px;
+	margin-top: 15px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
