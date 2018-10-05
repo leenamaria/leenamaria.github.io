@@ -1,0 +1,263 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leena-k.com" resolutions="1x,2x" timestamp="1482332079408">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="3833330361" ref="testimonials:up-makes-different-fly:choose-kindness:social:strippd:tech-confessions:never-undersold:contact:omb:about:index:sunshine-underground"/>
+    <file name="testimonials.css" crc="4110117212" ref="testimonials"/>
+    <file name="up-makes-different-fly.css" crc="4205121161" ref="up-makes-different-fly"/>
+    <file name="choose-kindness.css" crc="109747835" ref="choose-kindness"/>
+    <file name="social.css" crc="527924813" ref="social"/>
+    <file name="strippd.css" crc="43435509" ref="strippd"/>
+    <file name="tech-confessions.css" crc="3814294617" ref="tech-confessions"/>
+    <file name="never-undersold.css" crc="4018650743" ref="never-undersold"/>
+    <file name="contact.css" crc="50313626" ref="contact"/>
+    <file name="omb.css" crc="309579127" ref="omb"/>
+    <file name="about.css" crc="4170138199" ref="about"/>
+    <file name="index.css" crc="4096841335" ref="index"/>
+    <file name="sunshine-underground.css" crc="479001121" ref="sunshine-underground"/>
+  </folder>
+  <folder name="assets">
+    <file name="up-case-study-final.pdf" crc="442256188" seo="true" mt="1472591457000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>up-makes-different-fly:phone>never-undersold:phone>sunshine-underground:phone>choose-kindness:phone>tech-confessions:phone>strippd:phone>about:phone>testimonials:phone>omb:phone>social:phone>contact:index:omb:up-makes-different-fly:testimonials:sunshine-underground:about:contact:tech-confessions:choose-kindness:strippd:never-undersold:social"/>
+    <file name="museutils.js" crc="275725342" ref="phone>index:phone>up-makes-different-fly:phone>never-undersold:phone>sunshine-underground:phone>choose-kindness:phone>tech-confessions:phone>strippd:phone>about:phone>testimonials:phone>omb:phone>social:phone>contact:index:omb:up-makes-different-fly:testimonials:sunshine-underground:about:contact:tech-confessions:choose-kindness:strippd:never-undersold:social"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>up-makes-different-fly:phone>never-undersold:phone>sunshine-underground:phone>choose-kindness:phone>tech-confessions:phone>strippd:phone>about:phone>testimonials:phone>omb:phone>social:phone>contact:index:omb:up-makes-different-fly:testimonials:sunshine-underground:about:contact:tech-confessions:choose-kindness:strippd:never-undersold:social"/>
+    <file name="pie.js" crc="3827607177" ref="phone>up-makes-different-fly:up-makes-different-fly"/>
+    <file name="museredirect.js" crc="3899419633" ref="index:omb:up-makes-different-fly:testimonials:sunshine-underground:about:contact:tech-confessions:choose-kindness:strippd:never-undersold:social"/>
+  </folder>
+  <folder name="images">
+    <file name="1potato115x72.jpg" crc="519718590" seo="true" ref="phone>index"/>
+    <file name="1potato115x72_2x.jpg" crc="470000971" seo="true" ref="phone>index"/>
+    <file name="1mousegod-crop-u1649.png" crc="191659107" ref="phone>index"/>
+    <file name="1mousegod-crop-u1649_2x.png" crc="423498497" ref="phone>index"/>
+    <file name="1big issue -crop-u1643.png" crc="154336192" ref="phone>index"/>
+    <file name="1big issue -crop-u1643_2x.png" crc="3967135711" ref="phone>index"/>
+    <file name="strippdtubecar1-crop-u1651.jpg" crc="338058903" ref="phone>index"/>
+    <file name="strippdtubecar1-crop-u1651_2x.jpg" crc="264045423" ref="phone>index"/>
+    <file name="rfid scamp96x93.jpg" crc="142706083" seo="true" ref="phone>index"/>
+    <file name="rfid scamp96x93_2x.jpg" crc="3815186517" seo="true" ref="phone>index"/>
+    <file name="kindess poster2-crop-u1647.jpg" crc="247801557" ref="phone>index"/>
+    <file name="kindess poster2-crop-u1647_2x.jpg" crc="4055734448" ref="phone>index"/>
+    <file name="toblerone2-crop-u1653.jpg" crc="222529335" ref="phone>index"/>
+    <file name="toblerone2-crop-u1653_2x.jpg" crc="254763635" ref="phone>index"/>
+    <file name="omb website prawn toast-crop-u1655.jpg" crc="4103797067" ref="phone>index"/>
+    <file name="omb website prawn toast-crop-u1655_2x.jpg" crc="367431479" ref="phone>index"/>
+    <file name="london_underground_ad_screen_mockup_1362x242.jpg" crc="3858791578" seo="true" ref="phone>up-makes-different-fly"/>
+    <file name="london_underground_ad_screen_mockup_1362x242_2x.jpg" crc="171313541" seo="true" ref="phone>up-makes-different-fly"/>
+    <file name="packaging1361x271.jpg" crc="392568392" seo="true" ref="phone>up-makes-different-fly"/>
+    <file name="packaging1361x271_2x.jpg" crc="152901113" seo="true" ref="phone>up-makes-different-fly"/>
+    <file name="yt up367x207.jpg" crc="4232164724" seo="true" ref="phone>up-makes-different-fly"/>
+    <file name="yt up367x207_2x.jpg" crc="4123289090" seo="true" ref="phone>up-makes-different-fly"/>
+    <file name="box1122x91.jpg" crc="70293271" seo="true" ref="phone>up-makes-different-fly"/>
+    <file name="box1122x91_2x.jpg" crc="182016794" seo="true" ref="phone>up-makes-different-fly"/>
+    <file name="cab1-crop-u1679.jpg" crc="4169294415" ref="phone>up-makes-different-fly"/>
+    <file name="cab1-crop-u1679_2x.jpg" crc="425137636" ref="phone>up-makes-different-fly"/>
+    <file name="stand191x91.jpg" crc="3939732921" seo="true" ref="phone>up-makes-different-fly"/>
+    <file name="stand191x91_2x.jpg" crc="4174771268" seo="true" ref="phone>up-makes-different-fly"/>
+    <file name="up mockup ar-crop-u1687.png" crc="176753098" ref="phone>up-makes-different-fly"/>
+    <file name="up mockup ar-crop-u1687_2x.png" crc="519088804" ref="phone>up-makes-different-fly"/>
+    <file name="big issue 2178x198.jpg" crc="3977750346" seo="true" ref="phone>never-undersold"/>
+    <file name="big issue 2178x198_2x.jpg" crc="3922635111" seo="true" ref="phone>never-undersold"/>
+    <file name="big issue 1178x198.jpg" crc="347612798" seo="true" ref="phone>never-undersold"/>
+    <file name="big issue 1178x198_2x.jpg" crc="122312563" seo="true" ref="phone>never-undersold"/>
+    <file name="big issue radio ad speech bubble 236x236.png" crc="454151151" seo="true" ref="phone>never-undersold"/>
+    <file name="big issue radio ad speech bubble 236x236_2x.png" crc="3840956077" seo="true" ref="phone>never-undersold"/>
+    <file name="radio-070x75.png" crc="4039628513" seo="true" ref="phone>never-undersold"/>
+    <file name="radio-070x75_2x.png" crc="4099660288" seo="true" ref="phone>never-undersold"/>
+    <file name="big issue bus_mockup1369x231.jpg" crc="3919959168" seo="true" ref="phone>never-undersold"/>
+    <file name="big issue bus_mockup1369x231_2x.jpg" crc="389924006" seo="true" ref="phone>never-undersold"/>
+    <file name="rfid scamp2231x225.jpg" crc="3878675720" seo="true" ref="phone>sunshine-underground"/>
+    <file name="rfid scamp2231x225_2x.jpg" crc="350683075" seo="true" ref="phone>sunshine-underground"/>
+    <file name="tube escalator mockup2363x242.png" crc="3803985340" seo="true" ref="phone>sunshine-underground"/>
+    <file name="tube escalator mockup2363x242_2x.png" crc="4222310491" seo="true" ref="phone>sunshine-underground"/>
+    <file name="tube annoucnements363x272.jpg" crc="185955303" seo="true" ref="phone>sunshine-underground"/>
+    <file name="tube annoucnements363x272_2x.jpg" crc="257091440" seo="true" ref="phone>sunshine-underground"/>
+    <file name="kindess poster1175x262.jpg" crc="3873961066" seo="true" ref="phone>choose-kindness"/>
+    <file name="kindess poster1175x262_2x.jpg" crc="274186345" seo="true" ref="phone>choose-kindness"/>
+    <file name="kindess poster2175x262.jpg" crc="463359225" seo="true" ref="phone>choose-kindness"/>
+    <file name="kindess poster2175x262_2x.jpg" crc="86733382" seo="true" ref="phone>choose-kindness"/>
+    <file name="kindessapp11-crop-u1726.png" crc="3938834136" ref="phone>choose-kindness"/>
+    <file name="kindessapp11-crop-u1726_2x.png" crc="27134596" ref="phone>choose-kindness"/>
+    <file name="kindessapp22-crop-u1728.png" crc="232295556" ref="phone>choose-kindness"/>
+    <file name="kindessapp22-crop-u1728_2x.png" crc="4214875567" ref="phone>choose-kindness"/>
+    <file name="facebookad mockup kindness2 copy360x272.png" crc="3887643400" seo="true" ref="phone>choose-kindness"/>
+    <file name="facebookad mockup kindness2 copy360x272_2x.png" crc="4116829803" seo="true" ref="phone>choose-kindness"/>
+    <file name="techconfessions landing page2349x197.jpg" crc="88509175" seo="true" ref="phone>tech-confessions"/>
+    <file name="techconfessions landing page2349x197_2x.jpg" crc="416772938" seo="true" ref="phone>tech-confessions"/>
+    <file name="tech confessions 1168x126.jpg" crc="470003789" seo="true" ref="phone>tech-confessions"/>
+    <file name="tech confessions 1168x126_2x.jpg" crc="4226171061" seo="true" ref="phone>tech-confessions"/>
+    <file name="tech confessions 2168x126.jpg" crc="3795839023" seo="true" ref="phone>tech-confessions"/>
+    <file name="tech confessions 2168x126_2x.jpg" crc="139041225" seo="true" ref="phone>tech-confessions"/>
+    <file name="tube car panel mockeup 3366x220.jpg" crc="4127086671" seo="true" ref="phone>strippd"/>
+    <file name="tube car panel mockeup 3366x220_2x.jpg" crc="3979835594" seo="true" ref="phone>strippd"/>
+    <file name="strippdtubecar2366x169.jpg" crc="356563803" seo="true" ref="phone>strippd"/>
+    <file name="strippdtubecar2366x169_2x.jpg" crc="386478091" seo="true" ref="phone>strippd"/>
+    <file name="screen shot 2016-10-14 at 160301306x121.jpg" crc="4087057028" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160301306x121_2x.jpg" crc="453722754" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160323306x138.jpg" crc="4172948134" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160323306x138_2x.jpg" crc="4072641664" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160338306x139.jpg" crc="417276820" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160338306x139_2x.jpg" crc="80865960" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160405307x122.jpg" crc="303599252" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160405307x122_2x.jpg" crc="4087841221" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160420306x80.jpg" crc="4260486128" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160420306x80_2x.jpg" crc="3907260455" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160511311x153.jpg" crc="513897896" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160511311x153_2x.jpg" crc="4224071574" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160603306x142.jpg" crc="8779929" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160603306x142_2x.jpg" crc="158610961" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160628306x105.jpg" crc="4145202905" seo="true" ref="phone>testimonials"/>
+    <file name="screen shot 2016-10-14 at 160628306x105_2x.jpg" crc="4284265837" seo="true" ref="phone>testimonials"/>
+    <file name="elephant day346x224.jpg" crc="4251727981" seo="true" ref="phone>omb"/>
+    <file name="elephant day346x224_2x.jpg" crc="171278482" seo="true" ref="phone>omb"/>
+    <file name="greenscreen2326x193.jpg" crc="4076861831" seo="true" ref="phone>omb"/>
+    <file name="floss2321x481.jpg" crc="3804430956" seo="true" ref="phone>omb"/>
+    <file name="floss2321x481_2x.jpg" crc="3796663016" seo="true" ref="phone>omb"/>
+    <file name="joker2313x552.jpg" crc="97549077" seo="true" ref="phone>omb"/>
+    <file name="prawntoast1-crop-u1807.jpg" crc="132705260" ref="phone>omb"/>
+    <file name="prawntoast1-crop-u1807_2x.jpg" crc="39209081" ref="phone>omb"/>
+    <file name="toblerone.gif" crc="444949762" seo="true" ref="phone>social:social"/>
+    <file name="toblerone_2x.gif" crc="444949762" seo="true" ref="phone>social"/>
+    <file name="mini puddens3327x251.jpg" crc="247120617" seo="true" ref="phone>social"/>
+    <file name="mini puddens3327x251_2x.jpg" crc="4095080412" seo="true" ref="phone>social"/>
+    <file name="bodyform1316x211.jpg" crc="158084024" seo="true" ref="phone>social"/>
+    <file name="post-box.png" crc="88007558" seo="true" ref="phone>contact:contact"/>
+    <file name="post-box_2x.png" crc="4069466146" seo="true" ref="phone>contact:contact"/>
+    <file name="pigeonpost.gif" crc="3822633033" seo="true" ref="phone>contact:contact"/>
+    <file name="pigeonpost_2x.gif" crc="3822633033" seo="true" ref="phone>contact:contact"/>
+    <file name="article-1094449-02caebc7000005dc-613_468x594.jpg" crc="280353944" seo="true" ref="phone>contact:contact"/>
+    <file name="article-1094449-02caebc7000005dc-613_468x594_2x.jpg" crc="3979712833" seo="true" ref="phone>contact:contact"/>
+    <file name="suggestion-box-for-staff-300x202.png" crc="275803445" seo="true" ref="phone>contact:contact"/>
+    <file name="suggestion-box-for-staff-300x202_2x.png" crc="4161751369" seo="true" ref="phone>contact:contact"/>
+    <file name="1potato-crop-u1374.jpg" crc="360216295" ref="index"/>
+    <file name="1potato-crop-u1374_2x.jpg" crc="112283555" ref="index"/>
+    <file name="1mousegod-crop-u1436.png" crc="55521941" ref="index"/>
+    <file name="1mousegod-crop-u1436_2x.png" crc="4051051280" ref="index"/>
+    <file name="1big issue -crop-u1412.png" crc="4094121440" ref="index"/>
+    <file name="1big issue -crop-u1412_2x.png" crc="4044152495" ref="index"/>
+    <file name="strippdtubecar1-crop-u1442.jpg" crc="4189438188" ref="index"/>
+    <file name="strippdtubecar1-crop-u1442_2x.jpg" crc="3827075449" ref="index"/>
+    <file name="rfid scamp.jpg" crc="3956211951" seo="true" ref="index"/>
+    <file name="rfid scamp_2x.jpg" crc="4087014870" seo="true" ref="index"/>
+    <file name="toblerone2-crop-u1448.jpg" crc="175703868" ref="index"/>
+    <file name="toblerone2-crop-u1448_2x.jpg" crc="4086816921" ref="index"/>
+    <file name="kindess poster2-crop-u1433.jpg" crc="4099659697" ref="index"/>
+    <file name="kindess poster2-crop-u1433_2x.jpg" crc="311896527" ref="index"/>
+    <file name="omb website prawn toast-crop-u1460.jpg" crc="252838311" ref="index"/>
+    <file name="omb website prawn toast-crop-u1460_2x.jpg" crc="519814083" ref="index"/>
+    <file name="elephant day.jpg" crc="2983446" seo="true" ref="omb"/>
+    <file name="elephant day_2x.jpg" crc="110830631" seo="true" ref="omb"/>
+    <file name="greenscreen2.jpg" crc="199274225" seo="true" ref="omb"/>
+    <file name="floss2.jpg" crc="3951611963" seo="true" ref="omb"/>
+    <file name="floss2_2x.jpg" crc="4212255812" seo="true" ref="omb"/>
+    <file name="joker2.jpg" crc="474004572" seo="true" ref="omb"/>
+    <file name="prawntoast1-crop-u1468.jpg" crc="3871671001" ref="omb"/>
+    <file name="prawntoast1-crop-u1468_2x.jpg" crc="3842003689" ref="omb"/>
+    <file name="london_underground_ad_screen_mockup_1.jpg" crc="219240466" seo="true" ref="up-makes-different-fly"/>
+    <file name="london_underground_ad_screen_mockup_1_2x.jpg" crc="3772246429" seo="true" ref="up-makes-different-fly"/>
+    <file name="packaging1.jpg" crc="4166444575" seo="true" ref="up-makes-different-fly"/>
+    <file name="packaging1_2x.jpg" crc="343995082" seo="true" ref="up-makes-different-fly"/>
+    <file name="yt up.jpg" crc="4130716575" seo="true" ref="up-makes-different-fly"/>
+    <file name="box1.jpg" crc="388641482" seo="true" ref="up-makes-different-fly"/>
+    <file name="box1_2x.jpg" crc="196083260" seo="true" ref="up-makes-different-fly"/>
+    <file name="cab1-crop-u649.jpg" crc="4183436525" ref="up-makes-different-fly"/>
+    <file name="cab1-crop-u649_2x.jpg" crc="156152831" ref="up-makes-different-fly"/>
+    <file name="stand1.jpg" crc="414513066" seo="true" ref="up-makes-different-fly"/>
+    <file name="stand1_2x.jpg" crc="4000131606" seo="true" ref="up-makes-different-fly"/>
+    <file name="up mockup ar-crop-u1517.png" crc="53581457" ref="up-makes-different-fly"/>
+    <file name="up mockup ar-crop-u1517_2x.png" crc="3799713738" ref="up-makes-different-fly"/>
+    <file name="screen shot 2016-10-14 at 160323.jpg" crc="4020333250" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160323_2x.jpg" crc="105247863" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160301.jpg" crc="23689813" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160301_2x.jpg" crc="3844601128" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160338.jpg" crc="4261893253" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160338_2x.jpg" crc="4000503923" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160405.jpg" crc="122873967" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160405_2x.jpg" crc="4100880613" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160420.jpg" crc="3989599592" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160420_2x.jpg" crc="4174614632" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160511.jpg" crc="372793521" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160511_2x.jpg" crc="347601530" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160603.jpg" crc="3231897" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160603_2x.jpg" crc="3881527550" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160628.jpg" crc="535356133" seo="true" ref="testimonials"/>
+    <file name="screen shot 2016-10-14 at 160628_2x.jpg" crc="284015260" seo="true" ref="testimonials"/>
+    <file name="rfid scamp2.jpg" crc="2641085" seo="true" ref="sunshine-underground"/>
+    <file name="rfid scamp2_2x.jpg" crc="137507434" seo="true" ref="sunshine-underground"/>
+    <file name="tube escalator mockup2.png" crc="4020967729" seo="true" ref="sunshine-underground"/>
+    <file name="tube annoucnements.jpg" crc="3852877313" seo="true" ref="sunshine-underground"/>
+    <file name="tube annoucnements_2x.jpg" crc="157744232" seo="true" ref="sunshine-underground"/>
+    <file name="techconfessions landing page2.jpg" crc="246062104" seo="true" ref="tech-confessions"/>
+    <file name="techconfessions landing page2_2x.jpg" crc="3865761824" seo="true" ref="tech-confessions"/>
+    <file name="tech confessions 1.jpg" crc="3775168280" seo="true" ref="tech-confessions"/>
+    <file name="tech confessions 1_2x.jpg" crc="4136678690" seo="true" ref="tech-confessions"/>
+    <file name="tech confessions 2.jpg" crc="147476688" seo="true" ref="tech-confessions"/>
+    <file name="tech confessions 2_2x.jpg" crc="3762629456" seo="true" ref="tech-confessions"/>
+    <file name="kindess poster1.jpg" crc="98882292" seo="true" ref="choose-kindness"/>
+    <file name="kindess poster1_2x.jpg" crc="3847310967" seo="true" ref="choose-kindness"/>
+    <file name="kindess poster2420x630.jpg" crc="3773717186" seo="true" ref="choose-kindness"/>
+    <file name="kindess poster2420x630_2x.jpg" crc="29999598" seo="true" ref="choose-kindness"/>
+    <file name="kindessapp11-crop-u751.png" crc="286093359" ref="choose-kindness"/>
+    <file name="kindessapp11-crop-u751_2x.png" crc="4004346205" ref="choose-kindness"/>
+    <file name="kindessapp22-crop-u757.png" crc="4264868512" ref="choose-kindness"/>
+    <file name="kindessapp22-crop-u757_2x.png" crc="4179732223" ref="choose-kindness"/>
+    <file name="facebookad mockup kindness2 copy.png" crc="4086823875" seo="true" ref="choose-kindness"/>
+    <file name="facebookad mockup kindness2 copy_2x.png" crc="190424161" seo="true" ref="choose-kindness"/>
+    <file name="tube car panel mockeup 3.jpg" crc="4015756089" seo="true" ref="strippd"/>
+    <file name="tube car panel mockeup 3_2x.jpg" crc="202939710" seo="true" ref="strippd"/>
+    <file name="strippdtubecar2.jpg" crc="110426563" seo="true" ref="strippd"/>
+    <file name="big issue 2.jpg" crc="380769540" seo="true" ref="never-undersold"/>
+    <file name="big issue 2_2x.jpg" crc="402272203" seo="true" ref="never-undersold"/>
+    <file name="big issue 1.jpg" crc="346621871" seo="true" ref="never-undersold"/>
+    <file name="big issue 1_2x.jpg" crc="255606594" seo="true" ref="never-undersold"/>
+    <file name="big issue radio ad speech bubble .png" crc="133426552" seo="true" ref="never-undersold"/>
+    <file name="big issue radio ad speech bubble _2x.png" crc="3858645083" seo="true" ref="never-undersold"/>
+    <file name="radio-0.png" crc="112807233" seo="true" ref="never-undersold"/>
+    <file name="big issue bus_mockup1.jpg" crc="4176956458" seo="true" ref="never-undersold"/>
+    <file name="big issue bus_mockup1_2x.jpg" crc="90265495" seo="true" ref="never-undersold"/>
+    <file name="mini puddens3.jpg" crc="3818975950" seo="true" ref="social"/>
+    <file name="mini puddens3_2x.jpg" crc="3952542755" seo="true" ref="social"/>
+    <file name="bodyform1.jpg" crc="4285477663" seo="true" ref="social"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3981940773" ref="phone>tech-confessions:phone>index:phone>strippd:phone>sunshine-underground:phone>never-undersold:phone>social:phone>choose-kindness:phone>contact:phone>omb:phone>up-makes-different-fly:phone>about:phone>testimonials"/>
+      <file name="tech-confessions.css" crc="3901534869" ref="phone>tech-confessions"/>
+      <file name="index.css" crc="3795987446" ref="phone>index"/>
+      <file name="strippd.css" crc="262960028" ref="phone>strippd"/>
+      <file name="sunshine-underground.css" crc="178284830" ref="phone>sunshine-underground"/>
+      <file name="never-undersold.css" crc="338033886" ref="phone>never-undersold"/>
+      <file name="social.css" crc="311245329" ref="phone>social"/>
+      <file name="choose-kindness.css" crc="4259904742" ref="phone>choose-kindness"/>
+      <file name="contact.css" crc="3973543010" ref="phone>contact"/>
+      <file name="omb.css" crc="4205023075" ref="phone>omb"/>
+      <file name="up-makes-different-fly.css" crc="3781381582" ref="phone>up-makes-different-fly"/>
+      <file name="about.css" crc="4060429284" ref="phone>about"/>
+      <file name="testimonials.css" crc="3830663554" ref="phone>testimonials"/>
+    </folder>
+    <file name="index.html" crc="3894671695" seo="true" mt="1482331995145" redirect="true"/>
+    <file name="up-makes-different-fly.html" crc="392756984" seo="true" mt="1482331924963" redirect="true"/>
+    <file name="never-undersold.html" crc="4099889152" seo="true" mt="1482331924963" redirect="true"/>
+    <file name="sunshine-underground.html" crc="296626836" seo="true" mt="1482331924963" redirect="true"/>
+    <file name="choose-kindness.html" crc="4017235097" seo="true" mt="1482331924963" redirect="true"/>
+    <file name="tech-confessions.html" crc="397597143" seo="true" mt="1482331924963" redirect="true"/>
+    <file name="strippd.html" crc="4224622562" seo="true" mt="1482331924963" redirect="true"/>
+    <file name="about.html" crc="3950683424" seo="true" mt="1482331924963" redirect="true"/>
+    <file name="testimonials.html" crc="4006834070" seo="true" mt="1482331924963" redirect="true"/>
+    <file name="omb.html" crc="3955645205" seo="true" mt="1482331924963" redirect="true"/>
+    <file name="social.html" crc="344177412" seo="true" mt="1482331924963" redirect="true"/>
+    <file name="contact.html" crc="291816244" seo="true" mt="1482331924963" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3801629996" seo="true" mt="1482327272180" redirect="true"/>
+  <file name="omb.html" crc="384673962" seo="true" mt="1482327272923" redirect="true"/>
+  <file name="up-makes-different-fly.html" crc="4110843723" seo="true" mt="1482330033837" redirect="true"/>
+  <file name="testimonials.html" crc="458984956" seo="true" mt="1482327272855" redirect="true"/>
+  <file name="sunshine-underground.html" crc="149512651" seo="true" mt="1482327272437" redirect="true"/>
+  <file name="about.html" crc="439616649" seo="true" mt="1482327272767" redirect="true"/>
+  <file name="contact.html" crc="1440795" seo="true" mt="1482327273101" redirect="true"/>
+  <file name="tech-confessions.html" crc="92660002" seo="true" mt="1482327272599" redirect="true"/>
+  <file name="choose-kindness.html" crc="3955392269" seo="true" mt="1482327272518" redirect="true"/>
+  <file name="strippd.html" crc="297588061" seo="true" mt="1482327272685" redirect="true"/>
+  <file name="never-undersold.html" crc="3817831258" seo="true" mt="1482327272353" redirect="true"/>
+  <file name="social.html" crc="336488123" seo="true" mt="1482329687869" redirect="true"/>
+</manifest>
