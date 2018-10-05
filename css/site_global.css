@@ -117,38 +117,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-weight: normal;
 }
 
-.leena1 a:link
-{
-	color: #000000;
-	font-style: normal;
-	font-weight: normal;
-	text-decoration: none;
-}
-
-.leena1 a:visited
-{
-	color: #000000;
-	font-style: normal;
-	font-weight: normal;
-	text-decoration: none;
-}
-
-.leena1 a:hover
-{
-	color: #F7921E;
-	font-style: normal;
-	font-weight: normal;
-	text-decoration: none;
-}
-
-.leena1 a:active
-{
-	color: #000000;
-	font-style: normal;
-	font-weight: normal;
-	text-decoration: none;
-}
-
 .normal_text
 {
 	color: #000000;
