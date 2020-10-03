@@ -1,115 +1,62 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="leena-k.com" resolutions="1x" timestamp="1538772525715">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://leena-k.com" resolutions="1x" timestamp="1601736827643">
   <folder name="css">
-    <file name="site_global.css" crc="4052507572"/>
-    <file name="master_a-master.css" crc="4001916264" ref="tech-confessions:up:one-minute-briefs:about:amazon-catalogue:baking-mad"/>
-    <file name="tech-confessions.css" crc="276165467" ref="tech-confessions"/>
-    <file name="up.css" crc="391689746" ref="up"/>
-    <file name="one-minute-briefs.css" crc="3860272563" ref="one-minute-briefs"/>
-    <file name="about.css" crc="444647465" ref="about"/>
-    <file name="index.css" crc="3780750320" ref="index"/>
-    <file name="amazon-catalogue.css" crc="380409238" ref="amazon-catalogue"/>
-    <file name="baking-mad.css" crc="4217585761" ref="baking-mad"/>
+    <file name="site_global.css" crc="3854778992"/>
+    <file name="master_g-master.css" crc="216493467" ref="baking-mad"/>
+    <file name="master_b-master.css" crc="231950188" ref="millennial-misfortune"/>
+    <file name="master_f-master.css" crc="70619391" ref="scamp(y)"/>
+    <file name="master_c-master.css" crc="509317146" ref="the-amazon-catalogue"/>
+    <file name="master_a-master.css" crc="209227578" ref="index"/>
+    <file name="millennial-misfortune.css" crc="4190976693" ref="millennial-misfortune"/>
+    <file name="baking-mad.css" crc="3985248823" ref="baking-mad"/>
+    <file name="index.css" crc="3941543433" ref="index"/>
+    <file name="scamp_y_.css" crc="242645585" ref="scamp(y)"/>
+    <file name="the-amazon-catalogue.css" crc="3998287502" ref="the-amazon-catalogue"/>
+  </folder>
+  <folder name="fonts">
+    <file name="executive-regular.woff" crc="515564572"/>
+    <file name="anyconv.com__executive-regular.eot" crc="410532702"/>
+    <file name="anyconv.com__executive-regular.svg" crc="3814532811"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="phone>index:phone>amazon-catalogue:phone>baking-mad:phone>tech-confessions:phone>up:phone>one-minute-briefs:phone>about:index:amazon-catalogue:baking-mad:tech-confessions:up:one-minute-briefs:about"/>
-    <file name="museutils.js" crc="275725342" ref="phone>index:phone>amazon-catalogue:phone>baking-mad:phone>tech-confessions:phone>up:phone>one-minute-briefs:phone>about:index:amazon-catalogue:baking-mad:tech-confessions:up:one-minute-briefs:about"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="phone>index:phone>amazon-catalogue:phone>baking-mad:phone>tech-confessions:phone>up:phone>one-minute-briefs:phone>about:index:amazon-catalogue:baking-mad:tech-confessions:up:one-minute-briefs:about"/>
-    <file name="webpro.js" crc="3883484123" ref="phone>tech-confessions:phone>up:phone>one-minute-briefs:tech-confessions:up:one-minute-briefs"/>
-    <file name="musewpslideshow.js" crc="360574455" ref="phone>tech-confessions:phone>up:phone>one-minute-briefs:tech-confessions:up:one-minute-briefs"/>
-    <file name="jquery.museoverlay.js" crc="342093292" ref="phone>tech-confessions:phone>up:phone>one-minute-briefs:tech-confessions:up:one-minute-briefs"/>
-    <file name="touchswipe.js" crc="4218319045" ref="phone>tech-confessions:phone>up:phone>one-minute-briefs:tech-confessions:up:one-minute-briefs"/>
-    <file name="museredirect.js" crc="3899419633" ref="index:amazon-catalogue:baking-mad:tech-confessions:up:one-minute-briefs:about"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:millennial-misfortune:the-amazon-catalogue:baking-mad:scamp(y)"/>
+    <file name="museutils.js" crc="163421577" ref="index:millennial-misfortune:the-amazon-catalogue:baking-mad:scamp(y)"/>
+    <file name="whatinput.js" crc="86476730" ref="index:millennial-misfortune:the-amazon-catalogue:baking-mad:scamp(y)"/>
+    <file name="museconfig.js" crc="168988563" ref="index:millennial-misfortune:the-amazon-catalogue:baking-mad:scamp(y)"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:millennial-misfortune"/>
+    <file name="require.js" crc="244322403" ref="index:millennial-misfortune:the-amazon-catalogue:baking-mad:scamp(y)"/>
+    <file name="jquery.watch.js" crc="104486786" ref="millennial-misfortune:the-amazon-catalogue:baking-mad:scamp(y)"/>
   </folder>
   <folder name="images">
-    <file name="tech-confessions-animation-test-1.gif" crc="478443027" seo="true" ref="phone>index:phone>tech-confessions:index:tech-confessions"/>
-    <file name="catalogue alone with table2.png" crc="342797263" seo="true" ref="phone>index:index"/>
-    <file name="foo4152x138.png" crc="3940235805" seo="true" ref="phone>index"/>
-    <file name="flourclap copy.gif" crc="4267948121" seo="true" ref="phone>index:index"/>
-    <file name="1potato.jpg" crc="4198167364" seo="true" ref="phone>index:index"/>
-    <file name="suggestion-box-for-staff-300x202.png" crc="4099502849" seo="true" ref="phone>index:index"/>
-    <file name="img_20180728_143531-animation.gif" crc="3799198739" seo="true" ref="phone>amazon-catalogue:amazon-catalogue"/>
-    <file name="graph catalogue resized small363x204.jpg" crc="3823598384" seo="true" ref="phone>amazon-catalogue"/>
-    <file name="catalogue alone with shadow560x316.png" crc="4288507768" seo="true" ref="phone>amazon-catalogue"/>
-    <file name="img_20180728_1434462.jpg" crc="4234995642" seo="true" ref="phone>amazon-catalogue:amazon-catalogue"/>
-    <file name="tech-confessions-animation-test-2.gif" crc="4221228049" seo="true" ref="phone>tech-confessions:tech-confessions"/>
-    <file name="blank.gif" crc="4208392903" ref="phone>tech-confessions:phone>up:phone>one-minute-briefs:tech-confessions:up:one-minute-briefs"/>
-    <file name="tech-confessions-animation-test-4.gif" crc="3785847881" seo="true" ref="phone>tech-confessions:tech-confessions"/>
-    <file name="tech-confessions-animation-test-3.gif" crc="3948827284" seo="true" ref="phone>tech-confessions:tech-confessions"/>
-    <file name="loading.gif" crc="3815509949" ref="phone>tech-confessions:phone>up:phone>one-minute-briefs:tech-confessions:up:one-minute-briefs"/>
-    <file name="london_underground_ad_screen_mockup_1328x219.jpg" crc="242491721" seo="true" ref="phone>up"/>
-    <file name="packaging12321x160.jpg" crc="17940036" seo="true" ref="phone>up"/>
-    <file name="up mockup ar321x201.png" crc="3763020873" seo="true" ref="phone>up"/>
-    <file name="yt up321x181.jpg" crc="4215952320" seo="true" ref="phone>up"/>
-    <file name="london_underground_ad_screen_mockup_160x40.jpg" crc="133165728" seo="true" ref="phone>up"/>
-    <file name="packaging1260x30.jpg" crc="245280683" seo="true" ref="phone>up"/>
-    <file name="up mockup ar60x38.png" crc="288045218" seo="true" ref="phone>up"/>
-    <file name="yt up60x34.jpg" crc="3869923779" seo="true" ref="phone>up"/>
-    <file name="wiki1346x208.jpg" crc="4228873847" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="oldphotorestore282x230.jpg" crc="410901541" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="floss1291x230.jpg" crc="4184559756" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="elephant day346x223.jpg" crc="98784823" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="gluestick3287x230.jpg" crc="3980151460" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="greenscreen2348x206.jpg" crc="508348418" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="kindness3319x191.jpg" crc="3964190782" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="prawntoast1346x227.jpg" crc="218981944" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="joker2.jpg" crc="220765700" seo="true" ref="phone>one-minute-briefs:one-minute-briefs"/>
-    <file name="floss2.jpg" crc="3824610872" seo="true" ref="phone>one-minute-briefs:one-minute-briefs"/>
-    <file name="spork2262x230.jpg" crc="3778589028" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="wiki160x36.jpg" crc="4086286143" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="oldphotorestore56x45.jpg" crc="3868282335" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="floss157x45.jpg" crc="87338520" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="elephant day60x39.jpg" crc="448944556" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="gluestick357x45.jpg" crc="502205535" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="greenscreen260x36.jpg" crc="294162341" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="kindness360x36.jpg" crc="3834098378" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="prawntoast160x40.jpg" crc="104216269" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="spork252x45.jpg" crc="3814910589" seo="true" ref="phone>one-minute-briefs"/>
-    <file name="linkedin.jpg" crc="4071129325" seo="true" ref="phone>about:about"/>
-    <file name="pigeonpost.jpg" crc="24381181" seo="true" ref="phone>about:about"/>
-    <file name="post-box.png" crc="536684907" seo="true" ref="phone>about:about"/>
-    <file name="fortune teller mutoscope about me.gif" crc="224297595" seo="true" ref="phone>about:about"/>
-    <file name="foo4.png" crc="3790389903" seo="true" ref="index"/>
-    <file name="graph catalogue resized small.jpg" crc="251678351" seo="true" ref="amazon-catalogue"/>
-    <file name="catalogue alone with shadow.png" crc="165454555" seo="true" ref="amazon-catalogue"/>
-    <file name="london_underground_ad_screen_mockup_1.jpg" crc="4275139453" seo="true" ref="up"/>
-    <file name="packaging12.jpg" crc="4140159097" seo="true" ref="up"/>
-    <file name="up mockup ar.png" crc="4190424185" seo="true" ref="up"/>
-    <file name="yt up.jpg" crc="4080886479" seo="true" ref="up"/>
-    <file name="wiki1.jpg" crc="132786881" seo="true" ref="one-minute-briefs"/>
-    <file name="oldphotorestore.jpg" crc="21914610" seo="true" ref="one-minute-briefs"/>
-    <file name="floss1.jpg" crc="3801223884" seo="true" ref="one-minute-briefs"/>
-    <file name="elephant day.jpg" crc="3880559668" seo="true" ref="one-minute-briefs"/>
-    <file name="gluestick3.jpg" crc="203057809" seo="true" ref="one-minute-briefs"/>
-    <file name="greenscreen2.jpg" crc="3812479395" seo="true" ref="one-minute-briefs"/>
-    <file name="kindness3.jpg" crc="356711553" seo="true" ref="one-minute-briefs"/>
-    <file name="prawntoast1.jpg" crc="439702318" seo="true" ref="one-minute-briefs"/>
-    <file name="spork2.jpg" crc="157784147" seo="true" ref="one-minute-briefs"/>
-    <file name="img_20180728_143722.jpg" crc="3797560326" seo="true" ref="about"/>
+    <file name="scampyframe1.png" crc="4276752134" seo="true" ref="index"/>
+    <file name="amazonframe1.png" crc="4222917666" seo="true" ref="index"/>
+    <file name="bmframe1.png" crc="533576457" seo="true" ref="index"/>
+    <file name="mmframe1.png" crc="3949506478" seo="true" ref="index"/>
+    <file name="envelope.png" crc="255354438" seo="true" ref="index"/>
+    <file name="henry-co-mjps0hewsek-unsplash.jpg" crc="516949440" ref="index"/>
+    <file name="img_20190416_124408-crop-u498.jpg" crc="4228680089" ref="millennial-misfortune"/>
+    <file name="img_20190416_124939_001-animation.gif" crc="131035803" seo="true" ref="millennial-misfortune"/>
+    <file name="img_20190416_125431_001-animation.gif" crc="465723578" seo="true" ref="millennial-misfortune"/>
+    <file name="20190418_055759_0.jpg" crc="4120036074" seo="true" ref="millennial-misfortune"/>
+    <file name="pawel-czerwinski-nbsooachbma-unsplash.jpg" crc="4166019202" ref="millennial-misfortune"/>
+    <file name="20200919_030445_1.jpg" crc="349231101" seo="true" ref="the-amazon-catalogue"/>
+    <file name="amazon cover button-crop-u902.png" crc="362965613" ref="the-amazon-catalogue"/>
+    <file name="catalogue with labels2-crop-u892.png" crc="4191929485" ref="the-amazon-catalogue"/>
+    <file name="pyramid.jpg" crc="354439945" seo="true" ref="the-amazon-catalogue"/>
+    <file name="lighthouse.jpg" crc="3859047297" seo="true" ref="the-amazon-catalogue"/>
+    <file name="shard.jpg" crc="109191936" seo="true" ref="the-amazon-catalogue"/>
+    <file name="golden gate bridge.jpg" crc="129811103" seo="true" ref="the-amazon-catalogue"/>
+    <file name="matilda.jpg" crc="4214201730" seo="true" ref="baking-mad"/>
+    <file name="puppet-master.jpg" crc="4055455250" seo="true" ref="baking-mad"/>
+    <file name="hamlet.gif" crc="4057357673" seo="true" ref="baking-mad"/>
+    <file name="carrie gif.gif" crc="4123582344" seo="true" ref="baking-mad"/>
+    <file name="ye olde buzzfeed - leena k.jpg" crc="99594436" seo="true" ref="scamp(y)"/>
+    <file name="wetherspoonsleenak.jpg" crc="236099884" seo="true" ref="scamp(y)"/>
+    <file name="scamp1.jpg" crc="3833459355" seo="true" ref="scamp(y)"/>
+    <file name="scamp3.jpg" crc="3849294088" seo="true" ref="scamp(y)"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="master_a-master.css" crc="333692365" ref="phone>about:phone>amazon-catalogue:phone>baking-mad:phone>tech-confessions:phone>up:phone>one-minute-briefs"/>
-      <file name="about.css" crc="4197818968" ref="phone>about"/>
-      <file name="index.css" crc="3868849889" ref="phone>index"/>
-      <file name="amazon-catalogue.css" crc="143212359" ref="phone>amazon-catalogue"/>
-      <file name="baking-mad.css" crc="3794050732" ref="phone>baking-mad"/>
-      <file name="tech-confessions.css" crc="4191904314" ref="phone>tech-confessions"/>
-      <file name="up.css" crc="422982601" ref="phone>up"/>
-      <file name="one-minute-briefs.css" crc="3929170945" ref="phone>one-minute-briefs"/>
-    </folder>
-    <file name="index.html" crc="526313546" seo="true" mt="1538744651453" redirect="true"/>
-    <file name="amazon-catalogue.html" crc="341663520" seo="true" mt="1538745027736" redirect="true"/>
-    <file name="baking-mad.html" crc="3895022434" seo="true" mt="1538745209970" redirect="true"/>
-    <file name="tech-confessions.html" crc="111795381" seo="true" mt="1538745486883" redirect="true"/>
-    <file name="up.html" crc="31536355" seo="true" mt="1538745590750" redirect="true"/>
-    <file name="one-minute-briefs.html" crc="113743774" seo="true" mt="1538745802023" redirect="true"/>
-    <file name="about.html" crc="4213116704" seo="true" mt="1538746221642" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="60319948" seo="true" mt="1538744463088" redirect="true"/>
-  <file name="amazon-catalogue.html" crc="4129465566" seo="true" mt="1538744213174" redirect="true"/>
-  <file name="baking-mad.html" crc="20762191" seo="true" mt="1538744213252" redirect="true"/>
-  <file name="tech-confessions.html" crc="3771608798" seo="true" mt="1538744213339" redirect="true"/>
-  <file name="up.html" crc="3931742476" seo="true" mt="1538744213423" redirect="true"/>
-  <file name="one-minute-briefs.html" crc="55170456" seo="true" mt="1538744213502" redirect="true"/>
-  <file name="about.html" crc="3801967541" seo="true" mt="1538744213587" redirect="true"/>
+  <file name="index.html" crc="3879249304" seo="true" mt="1601736806366" redirect="true"/>
+  <file name="millennial-misfortune.html" crc="78472826" seo="true" mt="1601736667905" redirect="true"/>
+  <file name="the-amazon-catalogue.html" crc="4157937898" seo="true" mt="1601736734351" redirect="true"/>
+  <file name="baking-mad.html" crc="471245197" seo="true" mt="1601213000486" redirect="true"/>
+  <file name="scamp(y).html" crc="378497752" seo="true" mt="1601735765453" redirect="true"/>
 </manifest>
